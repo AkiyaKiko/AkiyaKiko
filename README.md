@@ -39,7 +39,7 @@
 | Project | Description | Stars |
 |--------|-------------|-------|
 | [🔥 Youtube Mini Player](https://github.com/AkiyaKiko/YouTubeMiniPlayer) | 🌟🌟🌟 |
-| [📦 Ehentai Auto Sign In](https://github.com/AkiyaKiko/EhentaiAutoSignIn) | 🚀🚀🚀 |
+| [📦 E-hentai Auto Sign In](https://github.com/AkiyaKiko/EhentaiAutoSignIn) | 🚀🚀🚀 |
 
 
 
